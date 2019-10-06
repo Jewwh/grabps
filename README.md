@@ -10,7 +10,7 @@
 pip install pysqlite3 
 pip install pypiwin32
 pip install psutil
-# pyinstaller поможет нам сделать *.exe файл
+pyinstaller поможет нам сделать *.exe файл
 pip install pyinstaller
 
-Ну все, пользуйтесь на здоровье)
+# Ну все, пользуйтесь на здоровье)
