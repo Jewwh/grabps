@@ -7,9 +7,9 @@
 
 НО, перед этим надо установить некоторые библиотеки:
 
-pip install pysqlite3 
-pip install pypiwin32
-pip install psutil
+pip install pysqlite3 -
+pip install pypiwin32 -
+pip install psutil -
 pyinstaller поможет нам сделать *.exe файл
 pip install pyinstaller
 
